@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.green-score {
+  color: green;
+}
+
+.orange-score {
+  color: orange;
+}
+
+.red-score{
+  color:red;
+}
